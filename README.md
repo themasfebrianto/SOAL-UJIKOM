@@ -21,8 +21,9 @@ B.    Skenario
 
 Sebagai seorang  Junior Prgrammer anda diminta untuk Membuat Program ATM 
 Dalam melakukan tugas ini anda akan dilengkapi dengan 
-1 Sofware Visual Studio Code
-1 Komputer/Laptop
+1.   Sofware Visual Studio Code
+2.   Live server
+3.   Komputer/Laptop
 
 Laksanakan Tugas dibawah ini :
 # MEMBUAT SOFTWARE MESIN ATM
