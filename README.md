@@ -46,16 +46,16 @@ Perhatikan Hasil Program berikut :
 - ketika user memilih paket tunai maka akan muncul sisa saldo 
 - **sisa saldo muncul menggunakan fungtion javascript confirm()**
 - **pada soal ini saldo user sebesar Rp.5.000.000**
-- **untuk perhitungan saldo akhir menggunakan objek
-       {
-       seratus:'10000',
+- **untuk perhitungan saldo akhir menggunakan objek**
+- `       {
+	    seratus:'10000',
         duaratus:'200000',
         tigaratus:'300000',
         limaratus:'500000',
         satujuta:'1000000',
         satusetengah:'1500000',
         duaratus:'2000000'
-        };**
+        };`
 ![This is an image](https://camo.githubusercontent.com/7c24688584f7d990ecc5617144cdf7722f9bada475e2915861f4f46f732ff7ef/68747470733a2f2f692e696d6775722e636f6d2f4639465530346a2e706e67)
 ![This is an image](https://i.imgur.com/In2uibC.png)
 ## Tampilan ambil kartu setelah memilih paket tunai
