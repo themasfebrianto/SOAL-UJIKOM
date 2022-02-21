@@ -19,10 +19,10 @@ A.  Petunjuk
 
 B.    Skenario
 
-Sebagai seorang  Junior Prgrammer anda diminta untuk Membuat Program .
+Sebagai seorang  Junior Prgrammer anda diminta untuk Membuat Program ATM 
 Dalam melakukan tugas ini anda akan dilengkapi dengan 
-a.Sofware Visual Studio Code
-b.Komputer/Laptop
+1 Sofware Visual Studio Code
+1 Komputer/Laptop
 
 Laksanakan Tugas dibawah ini :
 # MEMBUAT SOFTWARE MESIN ATM
