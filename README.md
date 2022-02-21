@@ -68,7 +68,7 @@ Perhatikan Hasil Program berikut :
 - **menu ini muncul ketika user mengklik menu transaksi lainnya pada menu pilih jumlah paket tunai**
 - di sini hanya tombol **keluar** yang mengarah pada UI perintah ambil kartu
 ![This is an image](https://i.imgur.com/xYoPzau.png)
-## Tampilan setelah memilih keluar
+- Tampilan setelah memilih keluar
 ![This is an image](https://i.imgur.com/v9DO9Pf.png)
 
 | NO. |     KODE UNIT    |               JUDUL UNIT KOMPETENSI              |                    LANGKAH KERJA/INSTRUKSI KERJA                   |
