@@ -71,28 +71,28 @@ Perhatikan Hasil Program berikut :
 ## Tampilan setelah memilih keluar
 ![This is an image](https://i.imgur.com/v9DO9Pf.png)
 
-| NO. |     KODE UNIT    |               JUDUL UNIT KOMPETENSI              |                    LANGKAH KERJA/INSTRUKSI KERJA                   |   |
-|:---:|:----------------:|:------------------------------------------------:|:------------------------------------------------------------------:|---|
-|  1  | J.620100.004.002 | Menggunakan Struktur Data                        | Mengidentifikasi konsep data dan struktur data                     |   |
-|     |                  |                                                  | Menerapkan struktur data dan akses terhadap struktur data tersebut |   |
-|  2  | J.620100.005.02  | Mengimplementasikan User Interface               | Mengidentifikasi rancangan user interface                          |   |
-|     |                  |                                                  | Melakukan implementasi rancangan user interface                    |   |
-|  3  | J.620100.011.01  | Melakukan Instalasi Software Tools Pemrograman   | Memillih tools pemrograman yang sesuai dengan kebutuhan            |   |
-|     |                  |                                                  | Instalasi Tools Pemrograman                                        |   |
-|     |                  |                                                  | Menerapkan hasil pemodelan kedalam eksekusi script sederhana       |   |
-|  4  | J.620100.012.01  | Melakukan Pengaturan Software Tools Pemrograman  | Melakukan konfigurasi tools untuk pemrograman                      |   |
-|     |                  |                                                  | Menggunakan tools sesuai kebutuhan pembuatan program               |   |
-|  5  | J.620100.017.01  | Mengimplementasikan Pemrograman Terstruktur      | Menggunakan tipe data dan control program                          |   |
-|     |                  |                                                  | Membuat program sederhana                                          |   |
-|     |                  |                                                  | Membuat program menggunakan prosedur dan fungsi                    |   |
-|     |                  |                                                  | Membuat program menggunakan array                                  |   |
-|     |                  |                                                  | Membuat program untuk akses file                                   |   |
-|     |                  |                                                  | Mengkompilasi program                                              |   |
-|  6  | J.620100.022.02  | Mengimplementasikan Algoritma Pemrograman        | Menjelaskan varian dan invarian                                    |   |
-|     |                  |                                                  | Membuat alur logika pemrograman                                    |   |
-|     |                  |                                                  | Menerapkan teknik dasar algoritma umum                             |   |
-|     |                  |                                                  | Menggunakan prosedur dan fungsi                                    |   |
-|     |                  |                                                  | Mengidentifikasikan kompleksitas algoritma                         |   |
-|  7  | J.620100.025.02  | Melakukan Debugging                              | Mempersiapkan kode program                                         |   |
-|     |                  |                                                  | Melakukan Debugging                                                |   |
-|     |                  |                                                  | Memperbaiki program                                                |   |
+| NO. |     KODE UNIT    |               JUDUL UNIT KOMPETENSI              |                    LANGKAH KERJA/INSTRUKSI KERJA                   |
+|:---:|:----------------:|:------------------------------------------------:|:------------------------------------------------------------------:|
+|  1  | J.620100.004.002 | Menggunakan Struktur Data                        | Mengidentifikasi konsep data dan struktur data                     |
+|     |                  |                                                  | Menerapkan struktur data dan akses terhadap struktur data tersebut |
+|  2  | J.620100.005.02  | Mengimplementasikan User Interface               | Mengidentifikasi rancangan user interface                          |
+|     |                  |                                                  | Melakukan implementasi rancangan user interface                    |
+|  3  | J.620100.011.01  | Melakukan Instalasi Software Tools Pemrograman   | Memillih tools pemrograman yang sesuai dengan kebutuhan            |
+|     |                  |                                                  | Instalasi Tools Pemrograman                                        |
+|     |                  |                                                  | Menerapkan hasil pemodelan kedalam eksekusi script sederhana       |
+|  4  | J.620100.012.01  | Melakukan Pengaturan Software Tools Pemrograman  | Melakukan konfigurasi tools untuk pemrograman                      |
+|     |                  |                                                  | Menggunakan tools sesuai kebutuhan pembuatan program               |
+|  5  | J.620100.017.01  | Mengimplementasikan Pemrograman Terstruktur      | Menggunakan tipe data dan control program                          |
+|     |                  |                                                  | Membuat program sederhana                                          |
+|     |                  |                                                  | Membuat program menggunakan prosedur dan fungsi                    |
+|     |                  |                                                  | Membuat program menggunakan array                                  |
+|     |                  |                                                  | Membuat program untuk akses file                                   |
+|     |                  |                                                  | Mengkompilasi program                                              |
+|  6  | J.620100.022.02  | Mengimplementasikan Algoritma Pemrograman        | Menjelaskan varian dan invarian                                    |
+|     |                  |                                                  | Membuat alur logika pemrograman                                    |
+|     |                  |                                                  | Menerapkan teknik dasar algoritma umum                             |
+|     |                  |                                                  | Menggunakan prosedur dan fungsi                                    |
+|     |                  |                                                  | Mengidentifikasikan kompleksitas algoritma                         |
+|  7  | J.620100.025.02  | Melakukan Debugging                              | Mempersiapkan kode program                                         |
+|     |                  |                                                  | Melakukan Debugging                                                |
+|     |                  |                                                  | Memperbaiki program                                                |
