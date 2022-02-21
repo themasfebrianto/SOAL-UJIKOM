@@ -4,10 +4,10 @@ Berikut adalah latihan soal ujikom untuk simulasi satu dan simulasi dua
 
 FR.AI.01b. TUGAS PRAKTEK OBSERVASI
 
-| KLASTER                        | PEMROGRAMAN DASAR       |   |
-|--------------------------------|-------------------------|---|
-| Nama asesor                    | Themas Febrianto, S.Kom |   |
-| Nama asesi                     |                         |   |
+| KLASTER                        | PEMROGRAMAN DASAR       |
+|--------------------------------|-------------------------|
+| Nama asesor                    | Themas Febrianto, S.Kom |
+| Nama asesi                     |                         |
 
 A.  Petunjuk
 
