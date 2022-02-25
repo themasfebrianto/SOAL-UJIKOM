@@ -48,7 +48,7 @@ Perhatikan Hasil Program berikut :
 - **pada soal ini saldo user sebesar Rp.5.000.000**
 - **untuk perhitungan saldo akhir menggunakan objek**
 - `       {
-	seratus:'10000',
+	seratus:'100000',
         duaratus:'200000',
         tigaratus:'300000',
         limaratus:'500000',
